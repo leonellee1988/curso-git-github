@@ -19,3 +19,14 @@
     background-color: teal;
     color: #fff;
 }
+
+#mensajeDos{
+    padding: 10px 10px;
+    border: none;
+    background-color: tomato;
+}
+
+#mostrarMensajeDos{
+    width: 40%;
+    background-color: yellowgreen;
+}
