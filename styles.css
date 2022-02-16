@@ -1,0 +1,15 @@
+#titulo{
+    width: 40%;
+    background-color: skyblue;
+}
+
+#mensaje{
+    padding: 10px 10px;
+    border: none;
+    background-color: tomato;
+}
+
+#mostrarMensaje{
+    width: 40%;
+    background-color: yellowgreen;
+}
