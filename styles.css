@@ -41,3 +41,14 @@
     background-color: purple;
     color: #fff;
 }
+
+#mensajeRama{
+    padding: 10px 10px;
+    border: none;
+    background-color: tomato;
+}
+
+#mostrarMensajeRama{
+    width: 40%;
+    background-color: coral;
+}
